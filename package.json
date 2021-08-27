@@ -10,7 +10,9 @@
   "keywords": [],
   "author": "UIUC Web Programming Staff",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "eslint": "^7.32.0"
+  },
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "copy-webpack-plugin": "^5.1.1",
